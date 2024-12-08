@@ -1,0 +1,10 @@
+Problem Statement : - Contains the problem statement by internshala
+final project solution task 1-5 : - Has solution to task 1-5
+task 6 recommendations :- Recommendations and Key Insights
+
+
+Assumptions :
+
+U gender type is marked as -> Not Specified
+
+
