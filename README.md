@@ -88,6 +88,3 @@ The analysis is based on the **KPMG Dataset**, which includes the following data
 A detailed video walkthrough of the project and analysis process is provided.  
 *(https://drive.google.com/file/d/1oY96ji1fvOGLebeW2OI7X-rYYLk5tBb0/view?usp=sharing)*
 
----
-
-## 📁 Project Structure
